@@ -1,0 +1,1 @@
+This project is based on the Odin Project and is made to practice the fundamental skills of HTML.
